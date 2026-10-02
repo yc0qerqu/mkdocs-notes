@@ -4,7 +4,7 @@ document$.subscribe(() => {
 
   const videoBg = document.createElement('video');
   videoBg.id = "video-bg";
-  videoBg.src = '../assets/bg.mp4';
+  videoBg.src = 'https://yc0qerqu.dpdns.org/assets/bg.mp4';
   videoBg.autoplay = true;
   videoBg.loop = true;
   videoBg.muted = true;
