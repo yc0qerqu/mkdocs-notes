@@ -4,3 +4,6 @@
 [data-md-color-scheme="slate"] .md-content {
   background-color: rgba(30,30,30,0.75);
 }
+.md-footer {
+  display: none !important;
+}
