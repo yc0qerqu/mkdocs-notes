@@ -1,0 +1,48 @@
+site_name: 我的技术小站
+site_url: https://yc0qerqu.dpdns.org
+site_author: yourname
+site_description: 老Mac / NAS / Minecraft 折腾笔记
+
+theme:
+  name: material
+  language: zh
+  palette:
+    # 跟随系统明暗
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换深色
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换浅色
+  features:
+    - navigation.top        # 回到顶部按钮
+    - navigation.tabs       # 顶部标签导航
+    - search.suggest        # 搜索建议
+    - search.highlight      # 搜索高亮
+    - content.code.copy     # 代码块一键复制
+
+# 插件：自带全文搜索
+plugins:
+  - search
+
+# 导航结构（以后新增md文件，在这里加一行即可）
+nav:
+  - 首页: index.md
+  - 老 Mac 折腾:
+      - A1278 升级排障: notes/mac/index.md
+  - NAS / 服务器:
+      - 华硕 T6670 + FNOS: notes/nas/index.md
+  - Minecraft:
+      - HMCL / Fabric 配置: notes/minecraft/index.md
+
+markdown_extensions:
+  - admonition          # 提示框
+  - codehilite         # 代码高亮
+  - toc:
+      permalink: true
