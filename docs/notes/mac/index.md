@@ -1,7 +1,5 @@
 # A1278 升级排障记录
 
-> 这是一篇示例笔记。以后把你的排障过程直接写在这个文件里就行。
-
 ## 硬件信息
 
 - 机型：MacBook Pro 8,1（2011，A1278）
@@ -25,6 +23,3 @@ dd if=win7.iso of=/dev/sdX bs=4M status=progress
 # 后台跑
 nohup dd if=linux.iso of=/dev/sdX bs=4M status=progress &
 ```
-
----
-*新笔记：在 `docs/notes/mac/` 下新建 `.md` 文件，然后到 `mkdocs.yml` 的 `nav` 里加一行。*
