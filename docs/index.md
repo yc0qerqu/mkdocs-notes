@@ -1,12 +1,12 @@
-# 我的技术小站
+# yc的网站
 
-欢迎来到我的静态站点。这里记录我折腾老电脑、NAS 和 Minecraft 的过程。
+个人折腾Mac、FnNAS 和 Minecraft 
 
 ## 站点内容
 
-- **老 Mac 折腾** — MacBook Pro A1278 升级、SSD 排障、多系统引导
-- **NAS / 服务器** — 华硕 T6670 + FNOS、远程镜像烧录
-- **Minecraft** — HMCL 启动器、Fabric 模组、按键映射
+- **MacBookPro2011** — MacBook Pro A1278 升级、SSD 排障、多系统引导
+- **FnNAS / 服务器** — 华硕 T6670 + FNOS、远程镜像烧录
+- **Minecraft** — HMCL 启动器、Fabric 模组
 
 ## 怎么用这个站
 
