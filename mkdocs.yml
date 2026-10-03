@@ -40,7 +40,7 @@ nav:
       - 华硕 T6670 + FNOS: notes/nas/index.md
   - Minecraft:
       - HMCL / Fabric 配置: notes/minecraft/index.md
-
+  - 链接跳转: links.md
 markdown_extensions:
   - admonition          # 提示框
   - codehilite         # 代码高亮
