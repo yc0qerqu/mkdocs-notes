@@ -25,7 +25,7 @@
   Azul 好用java下载
 ](https://www.azul.com/downloads){target="_blank"}
 
-- [ :simple-macos:{ .lg .middle } **appstrrent**
+- [ :material-apple-finder:{ .lg .middle } **appstrrent**
   mac俄罗斯大佬破解软件下载站
 ](https://appstorrent.ru){target="_blank"}
 </div>
