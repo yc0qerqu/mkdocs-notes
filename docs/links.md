@@ -1,7 +1,7 @@
 # 链接跳转
 点卡片直达：
 <div class="grid cards" markdown>
-- [ :simple-bilibili:{ .lg .middle } **哔哩哔哩**
+- [ :fontawesome-brands-bilibili:{ .lg .middle } **哔哩哔哩**
   B站主页
 ](https://www.bilibili.com){target="_blank"}
 
